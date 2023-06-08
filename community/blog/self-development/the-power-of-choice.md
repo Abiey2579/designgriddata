@@ -20,6 +20,4 @@ The power of choice is not something that can be taken away from us. It is somet
 
 So, my friends, embrace the power of choice. Use it to create the life you want and to become the person you want to be. Remember that every choice you make is an opportunity to grow, to learn, and to become stronger. The power of choice is within you, so use it wisely and with purpose.
 
-If you have any question or have feedback about my articles, let me know in the comment section, and don’t forget to check one of my best articles of the month The Power of Self Confidence.
-
 Stay Motivated 💪💪💪.

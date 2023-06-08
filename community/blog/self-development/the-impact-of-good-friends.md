@@ -42,6 +42,4 @@ So, cherish your friendships and never underestimate the impact of good friends 
 
     NOTE: When it comes to Choosing Friends, Quality counts more than quantity.
 
-If you have any question or have feedback about my articles, let me know in the comment section, and don’t forget to check one of my best articles of the month The Power of Self Confidence.
-
 Stay Motivated 💪💪💪.
