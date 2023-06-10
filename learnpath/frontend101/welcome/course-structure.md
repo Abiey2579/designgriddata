@@ -30,17 +30,16 @@ The course is structured into several sections that gradually introduce and cove
 - **Forms:** This section covers the creation of interactive forms using HTML. You will learn about form elements, validation, and submission.
 - **HTML Styling Tags:** Explore a variety of HTML tags used for applying basic styles and formatting to your content.
 - **Classes and IDs:** Understand the concept of classes and IDs in HTML, which are essential for styling and selecting specific elements.
-- **Project:** Landing Page: Apply the knowledge gained so far by building a landing page project, incorporating HTML elements and basic styling.
+- **Project: Landing Page:** Apply the knowledge gained so far by building a landing page project, incorporating HTML elements and basic styling.
 
 ### **Introduction to CSS:**
 
 - **Testing Background Color:** Learn how to experiment with different background colors for HTML elements using CSS.
 - **Inline, Internal, and External CSS:** Explore various methods of applying CSS styles to HTML elements, including inline, internal, and external CSS.
 - **Play around with Elements:** This section allows you to experiment with CSS properties and styles for different HTML elements.
-- Paddings and Margins: Understand the concepts of padding and margin in CSS, and learn how to utilize them to create spacing and positioning effects.
+- **Paddings and Margins:** Understand the concepts of padding and margin in CSS, and learn how to utilize them to create spacing and positioning effects.
 - **Background Images:** Discover how to incorporate background images into your web pages using CSS properties and techniques.
 - **Shadows:** Explore the use of box shadows and text shadows to create visual effects and enhance the appearance of elements.
-
 - **Project:** Portfolio Website: Apply your CSS knowledge to create a portfolio website project, focusing on layout, styling, and design.
 
 ### **Introduction to JavaScript:**
