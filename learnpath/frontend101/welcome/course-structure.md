@@ -1,51 +1,61 @@
-# Course Structure
+# Course Structure:
 
-Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Odin Project encourage you to participate in our online chat community, which we’ll talk more about below. By joining the community, you can grow alongside other Odinites and help each other learn web development. While you’re at it, you can check out our Facebook page, follow us on Twitter and catch up on Instagram. Use #TheOdinProject to share your Odin Project progress, updates, thoughts and to see what other Odin students are up to!
+The course is structured into several sections that gradually introduce and cover the essential topics of web development, guiding you from the fundamentals of HTML, CSS, and JavaScript to practical projects and hands-on exercises.
 
-## Why a Community Is Awesome for You
+### **Welcome:**
 
-Learning web development will be a long and arduous journey, but you can make the marathon a lot more fun by getting involved in our Discord community. No matter what pace you are doing our curriculum, there will always be people a few steps ahead of you that are willing to help. Furthermore, helping others that are a few steps behind you is a great way to deepen your own understanding and make your learning stick.
+- **Course Overview:** This section provides a comprehensive introduction to the course, explaining our mission, goals, and objectives. It sets the foundation for your web development journey and emphasizes the core values of continuous learning, creativity, and collaboration.
 
-When you’re slogging through the desert of despair, where your code doesn’t work or even make sense to you anymore, you can find an oasis of knowledge and encouragement in our community. Veterans at The Odin Project love to help fill in knowledge gaps and provide new insights and perspectives on how to improve your code. We’ve all been there before!
+### **Introduction:**
 
-Remember that project you struggled so hard to figure out and that you’re so proud of finishing? Through our community, you will get to share your work and progress with those who fully appreciate how much hard work went into it.
+- **Intro to Web Development:** In this section, you will get acquainted with the fundamentals of web development. You will learn about the basics of the web, how websites work, and the role of HTML, CSS, and JavaScript in building web pages.
+- **Intro to Git, GitHub, and Gitlab:** Here, you will be introduced to version control systems and their significance in web development. You will learn about Git, GitHub, and GitLab, which are widely used for managing and collaborating on projects.
 
-## Why a Community Is Awesome for Odin
+### **Course Requirements:**
 
-We are working hard to update existing lessons and produce new content, so we would love to hear your feedback on the lessons and projects. We hope you find the lessons fun, engaging, and informative and find the projects challenging but achievable. So please let us know your thoughts!
+- **Choosing a Browser:** This section guides you in selecting an appropriate web browser for web development purposes. It highlights the features and considerations to keep in mind while choosing a browser.
+- **Text Editors VS IDEs:** You will explore the differences between text editors and Integrated Development Environments (IDEs) and gain insights into their functionalities, advantages, and popular options.
+- **Installing Git:** Step-by-step instructions will be provided to help you install Git, a powerful version control system, on your computer.
+- **Installing GitHub Desktop:** This section walks you through the process of installing GitHub Desktop, a user-friendly interface for managing Git repositories.
 
-## Before Asking for Help
+### **Introduction to HTML:**
 
-As most of the projects are designed to push you to your limit, please remember that there is always a community to turn to! You don’t need to know how to solve every problem straight away, BUT you do need to have a general idea of where you are going. This becomes really important when asking your questions because sometimes the problem is your approach and not your code.
+- **Overview:** Basic HTML Structure: Here, you will delve into the foundational structure of HTML documents. You will learn about the essential HTML tags and their purpose in creating the structure of web pages.
+- **Headings and Paragraphs:** This section focuses on text content, teaching you how to create headings and paragraphs using appropriate HTML tags.
+- **Divs and Spans:** You will explore the concept of divisions (divs) and spans, which are crucial for organizing and styling HTML elements.
+- **Links and Images:** Learn how to create hyperlinks and insert images into your web pages using HTML tags.
+- **Lists:** Ordered, Unordered, and Detailed: This section introduces various list types in HTML, including ordered lists (numbered), unordered lists (bullet points), and detailed lists (definition lists).
+- **Audio and Video:** Discover how to embed audio and video content into your web pages using HTML's multimedia tags.
+- **Tables:** Learn the fundamentals of creating tables in HTML, allowing you to present tabular data effectively.
+- **Forms:** This section covers the creation of interactive forms using HTML. You will learn about form elements, validation, and submission.
+- **HTML Styling Tags:** Explore a variety of HTML tags used for applying basic styles and formatting to your content.
+- **Classes and IDs:** Understand the concept of classes and IDs in HTML, which are essential for styling and selecting specific elements.
+- **Project:** Landing Page: Apply the knowledge gained so far by building a landing page project, incorporating HTML elements and basic styling.
 
-If you’re feeling stuck, it’s a good time to pause and take a breather. Break the problem down into little pieces and then decide what is really holding you back. We call this technique rubber duck debugging.
+### **Introduction to CSS:**
 
-You should also do a Google search to find relevant information for your problem. Read about how to use Google to solve your programming questions. You can also look back at previous lessons for tools that you can apply to the current task.
+- **Testing Background Color:** Learn how to experiment with different background colors for HTML elements using CSS.
+- **Inline, Internal, and External CSS:** Explore various methods of applying CSS styles to HTML elements, including inline, internal, and external CSS.
+- **Play around with Elements:** This section allows you to experiment with CSS properties and styles for different HTML elements.
+- Paddings and Margins: Understand the concepts of padding and margin in CSS, and learn how to utilize them to create spacing and positioning effects.
+- **Background Images:** Discover how to incorporate background images into your web pages using CSS properties and techniques.
+- **Shadows:** Explore the use of box shadows and text shadows to create visual effects and enhance the appearance of elements.
 
-If these methods don’t yield a solution for you, then it’s time to reach out to the Odin community and ask for help.
+- **Project:** Portfolio Website: Apply your CSS knowledge to create a portfolio website project, focusing on layout, styling, and design.
 
-## Asking for Help
+### **Introduction to JavaScript:**
 
-So you’ve spent some time struggling to solve the problem on your own, and now it’s time to fire up the Odin Discord and ask for help. The first thing to keep in mind is don’t ask to ask. While this is a simple idea (with a pretty catchy motto!), it can help you get answers to your questions much faster and will make it easier to others to feel comfortable offering you help.
+- **Overview:** JavaScript Basics: Get introduced to JavaScript, the programming language of the web. Learn about its core concepts, syntax, variables, data types, and basic operations.
+- **Conditionals:** Explore conditional statements in JavaScript, such as if-else statements and switch statements, to control the flow of your code based on different conditions.
+- **Loops:** Learn about different types of loops in JavaScript, including for loops, while loops, and do-while loops, to execute code repeatedly.
+- **Functions:** Understand the concept of functions in JavaScript and learn how to create reusable blocks of code that perform specific tasks.
+- **Arrays:** Explore JavaScript arrays, which allow you to store and manipulate collections of data.
+- **Objects:** Discover how to create objects in JavaScript, defining properties and methods to represent real-world entities.
+- **Document Object Model (DOM):** Learn about the DOM and how JavaScript can interact with HTML elements and modify their content, styles, and attributes dynamically.
+- **Project:** Interactive Game: Apply your JavaScript skills by creating an interactive game project, incorporating event handling, user input, and dynamic content manipulation.
 
-In addition, when you ask your questions, you should help the community help you by putting together a great question.
+### **Conclusion:**
 
-When asking your question, please remember to include the context:
+- **Recap and Next Steps:** This final section provides a summary of the course and recaps the key concepts covered. It also suggests further steps you can take to continue your learning journey in web development.
 
-- What do you think the problem is?
-- What exactly do you want to happen?
-- What is actually happening?
-- How did you get there?
-- What have you tried so far?
-
-If you can’t pinpoint the problem, you can share a screenshot. This is especially useful for showing the output of commands in the command line. In Discord, drag and drop your screenshot image file into the chat box to upload it or simply use the PrtScn and paste keyboard shortcuts. If you don’t know how to take a screenshot on your computer, this is a good time to ask Google.
-
-Screenshots are great for showing the output of commands or error messages in the command line. Screenshots are also great for showing the output from your code such as how the output looks visually on a webpage or console outputs in the browser. However, you should always include the corresponding files containing the error. Even if it is a short amount of code, providing it in the discord server in the proper format along with a screenshot of the output is helpful to those debugging it rather than just a screenshot. When you do share a screenshot of the output or how it looks visually make sure to push your project to GitHub or put your corresponding code in a Replit so that others can comb through and debug the code. The screenshot of the output and the correlating code that can recreate the problem will help make it easier to understand the problem for people helping you. You’ll learn all about GitHub very soon.
-
-Sometimes there might be no one around to help you with your issue. That is the ideal time to get familiar with the Discord search function. Search for specific keywords or error messages to see if anyone else had a similar issue before and how they solved it!
-
-## Formatting Your Questions
-
-Asking your questions in a readable format helps everyone debug them better. Here are some ways to go about that:
-
-    If you’re having trouble on the command line, make sure to include both your input and the error message you’re getting.
+Throughout the course, you will have opportunities for hands-on practice and projects, allowing you to apply what you've learned and reinforce your understanding. Remember to actively engage with the course material, participate in discussions, and seek assistance when needed. Happy learning!
