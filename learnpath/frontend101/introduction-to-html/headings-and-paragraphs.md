@@ -76,7 +76,7 @@ Now let's start coding, to create a new HTML file and preview your code in a bro
 
 ### Code Preview
 
-[Code Preview](../../assets/images/headings-and-paragraphs.jpg)
+[Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/headings-and-paragraphs.jpg)
 
 By following these steps, you can create and preview your HTML code in a browser directly from Sublime Text, making it convenient to see how your web page will look and behave.
 
