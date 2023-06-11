@@ -1,6 +1,6 @@
 # Overview: Basic HTML Structure
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yoksZ9GRnGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qz0aGYrrlhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 HTML stands for Hypertext Markup Language and is the standard markup language used to create the structure and content of web pages.
 
@@ -68,3 +68,5 @@ The HTML boilerplate provides a solid foundation for creating HTML documents and
 ### Resource Recommendation
 
 1. <a href="https://youtu.be/AEmtCXp0lHE" target="_blank">Intro To HTML In 3 Minutes | HTML Basics</a>
+2. <a href="https://youtu.be/yoksZ9GRnGM" target="_blank">HTML Boilerplate Explained | Intro To HTML
+   </a>
