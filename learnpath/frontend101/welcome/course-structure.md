@@ -2,23 +2,23 @@
 
 The course is structured into several sections that gradually introduce and cover the essential topics of web development, guiding you from the fundamentals of HTML, CSS, and JavaScript to practical projects and hands-on exercises.
 
-### **Welcome:**
+### Welcome:
 
 - **Course Overview:** This section provides a comprehensive introduction to the course, explaining our mission, goals, and objectives. It sets the foundation for your web development journey and emphasizes the core values of continuous learning, creativity, and collaboration.
 
-### **Introduction:**
+### Introduction:
 
 - **Intro to Web Development:** In this section, you will get acquainted with the fundamentals of web development. You will learn about the basics of the web, how websites work, and the role of HTML, CSS, and JavaScript in building web pages.
 - **Intro to Git, GitHub, and Gitlab:** Here, you will be introduced to version control systems and their significance in web development. You will learn about Git, GitHub, and GitLab, which are widely used for managing and collaborating on projects.
 
-### **Course Requirements:**
+### Course Requirements:
 
 - **Choosing a Browser:** This section guides you in selecting an appropriate web browser for web development purposes. It highlights the features and considerations to keep in mind while choosing a browser.
 - **Text Editors VS IDEs:** You will explore the differences between text editors and Integrated Development Environments (IDEs) and gain insights into their functionalities, advantages, and popular options.
 - **Installing Git:** Step-by-step instructions will be provided to help you install Git, a powerful version control system, on your computer.
 - **Installing GitHub Desktop:** This section walks you through the process of installing GitHub Desktop, a user-friendly interface for managing Git repositories.
 
-### **Introduction to HTML:**
+### Introduction to HTML:
 
 - **Overview:** Basic HTML Structure: Here, you will delve into the foundational structure of HTML documents. You will learn about the essential HTML tags and their purpose in creating the structure of web pages.
 - **Headings and Paragraphs:** This section focuses on text content, teaching you how to create headings and paragraphs using appropriate HTML tags.
@@ -32,7 +32,7 @@ The course is structured into several sections that gradually introduce and cove
 - **Classes and IDs:** Understand the concept of classes and IDs in HTML, which are essential for styling and selecting specific elements.
 - **Project: Landing Page:** Apply the knowledge gained so far by building a landing page project, incorporating HTML elements and basic styling.
 
-### **Introduction to CSS:**
+### Introduction to CSS:
 
 - **Testing Background Color:** Learn how to experiment with different background colors for HTML elements using CSS.
 - **Inline, Internal, and External CSS:** Explore various methods of applying CSS styles to HTML elements, including inline, internal, and external CSS.
@@ -42,7 +42,7 @@ The course is structured into several sections that gradually introduce and cove
 - **Shadows:** Explore the use of box shadows and text shadows to create visual effects and enhance the appearance of elements.
 - **Project:** Portfolio Website: Apply your CSS knowledge to create a portfolio website project, focusing on layout, styling, and design.
 
-### **Introduction to JavaScript:**
+### Introduction to JavaScript:
 
 - **Overview:** JavaScript Basics: Get introduced to JavaScript, the programming language of the web. Learn about its core concepts, syntax, variables, data types, and basic operations.
 - **Conditionals:** Explore conditional statements in JavaScript, such as if-else statements and switch statements, to control the flow of your code based on different conditions.
@@ -53,7 +53,7 @@ The course is structured into several sections that gradually introduce and cove
 - **Document Object Model (DOM):** Learn about the DOM and how JavaScript can interact with HTML elements and modify their content, styles, and attributes dynamically.
 - **Project:** Interactive Game: Apply your JavaScript skills by creating an interactive game project, incorporating event handling, user input, and dynamic content manipulation.
 
-### **Conclusion:**
+### Conclusion:
 
 - **Recap and Next Steps:** This final section provides a summary of the course and recaps the key concepts covered. It also suggests further steps you can take to continue your learning journey in web development.
 
