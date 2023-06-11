@@ -85,7 +85,7 @@ Right-click anywhere in code and select "Open in Browser"
 
 You will see something like:
 
-![Code Preview](../../assets/images/list-ul-ol-dl-code-preview.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/list-ul-ol-dl-code-preview.jpg)
 
 ### Resource Recommendation
 

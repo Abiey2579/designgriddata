@@ -1,8 +1,8 @@
 # Divs and Spans
 
-In HTML, <div> and <span> are container elements used to group and style other elements. They do not have any inherent meaning or styling, but they provide structure and allow for targeted styling and manipulation.
+In HTML, `<div>` and `<span>` are container elements used to group and style other elements. They do not have any inherent meaning or styling, but they provide structure and allow for targeted styling and manipulation.
 
-The <span> element is used to enclose a specific portion of text, which can be targeted for styling or manipulation. In this case, the span element has no explicit styling, but it can be used as a hook to apply CSS rules or JavaScript functionality to that particular portion of text.
+The `<span>` element is used to enclose a specific portion of text, which can be targeted for styling or manipulation. In this case, the span element has no explicit styling, but it can be used as a hook to apply CSS rules or JavaScript functionality to that particular portion of text.
 
 On the other hand, `<div>` element is a container that allows you to group and style other elements together without any specific semantic meaning.
 
@@ -25,7 +25,7 @@ Copy the `<div>` and `<span>` lines and paste them into your `index.html`, the o
 
 You will see something like:
 
-![Code Preview](../../assets/images/divs-and-spans.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/divs-and-spans.jpg)
 
 ### Resource Recommendation
 

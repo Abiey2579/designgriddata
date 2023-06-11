@@ -95,6 +95,6 @@ Right-click anywhere in code and select "Open in Browser"
 
 You will see something like:
 
-![Code Preview](../../assets/images/html-style-tag-code-preview.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/html-style-tag-code-preview.jpg)
 
 These are some of the HTML styling tags that you can use to apply formatting and emphasis to your text content. Remember to use them appropriately and in a way that enhances readability and accessibility.

@@ -54,7 +54,7 @@ Right-click anywhere in code and select "Open in Browser"
 
 You will see something like:
 
-![Code Preview](../../assets/images/audio-video-code-preview.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/audio-video-code-preview.jpg)
 
 **Let's Add Video**
 
@@ -86,7 +86,7 @@ Right-click anywhere in code and select "Open in Browser"
 
 You will see something like:
 
-![Code Preview](../../assets/images/audio-video-code-preview-2.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/audio-video-code-preview-2.jpg)
 
 ### Code Hint
 

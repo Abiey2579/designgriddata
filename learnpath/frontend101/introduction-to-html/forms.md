@@ -116,7 +116,7 @@ You might notice something here `<br />`, this mean **Break line**, it typically
 
 Let's preview it
 
-![Code Preview](../../assets/images/forms-code-preview.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/forms-code-preview.jpg)
 
 ### Resource Recommendation
 

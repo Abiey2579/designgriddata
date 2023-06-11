@@ -44,7 +44,7 @@ Then right-click anywhere in code and select "Open in Browser"
 
 You will see something like:
 
-![Code Preview](../../assets/images/links-and-images-code-preview.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/links-and-images-code-preview.jpg)
 
 **Let's Add Link**
 
@@ -71,13 +71,13 @@ Then right-click anywhere in code and select "Open in Browser"
 
 You will see something like:
 
-![Code Preview](../../assets/images/links-and-images-code-preview-2.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/links-and-images-code-preview-2.jpg)
 
 To check whether the anchor tag works click on it.
 
 This is what I have, what about you?
 
-![Code Preview](../../assets/images/links-and-images-code-preview-3.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/links-and-images-code-preview-3.jpg)
 
 ### Resource Recommendation
 
