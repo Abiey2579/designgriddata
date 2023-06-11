@@ -1,6 +1,6 @@
 # The Power of Growth Mindset
 
-    “You can never do more than your mindset allow” — Yahaya Muhammad
+> “You can never do more than your mindset allow” — Yahaya Muhammad
 
 Growth mindset go hand in hand with The Power of **“Yet”**. People who have growth mindset believe that even if they struggle with certain skills, their abilities aren’t set in stone, they always believe that with persistent hard work and determination, their skills can improve over time. This simply shows how The Power of **“Yet”**, plays a huge role in Growth mindset.
 

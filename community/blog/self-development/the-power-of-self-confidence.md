@@ -2,7 +2,7 @@
 
 ### QUOTE GIVEWAY
 
-    Self Confidence is super power, once you have it, incredible things will start to happen. — Yahaya M. Bello
+> Self Confidence is super power, once you have it, incredible things will start to happen. — Yahaya M. Bello
 
 ### What is Self-confidence?
 
@@ -16,7 +16,7 @@ Professionally, self-confidence can lead you to a greater success and advancemen
 
 Self-confidence plays a key role in personal relationship. People who are self-assured are more attractive to others and have more satisfying relationships. They are also better equipped to handle conflicts and difficult situations in their relationships.
 
-    Note: Self-confidence is not the same as arrogance or narcissism. Arrogant people overestimate their own abilities and put down others, while self-confident people acknowledge their own strengths while also recognizing the strengths of others.
+> **Note:** Self-confidence is not the same as arrogance or narcissism. Arrogant people overestimate their own abilities and put down others, while self-confident people acknowledge their own strengths while also recognizing the strengths of others.
 
 ### Ways to develop Self-confidence
 

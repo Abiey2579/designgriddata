@@ -1,10 +1,10 @@
 # The Power of Choice
 
-    “Before you make any choice, you should ask yourself: If this would be my last day on earth, would I choose what am about to choose?” — Yahaya M. Bello
+> “Before you make any choice, you should ask yourself: If this would be my last day on earth, would I choose what am about to choose?” — Yahaya M. Bello
 
 ---
 
-    If the answer comes out “NO” several times in a week, definitely you’ve made wrong choices a lot.
+> If the answer comes out “NO” several times in a week, definitely you’ve made wrong choices a lot.
 
 Life is full of choices. Every day, we make decisions that shape our lives and determine our future. The power of choice is something that is often underestimated, but it is one of the most important tools we have at our disposal.
 

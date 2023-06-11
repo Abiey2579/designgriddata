@@ -1,16 +1,16 @@
 # The Impact of Good Friends
 
-    “The best way to have a good friend is to be one.” — Ralph Waldo Emerson
+> “The best way to have a good friend is to be one.” — Ralph Waldo Emerson
 
 ---
 
-    “The company you keep is a reflection of yourself.” — Yahaya M. Belo
+> “The company you keep is a reflection of yourself.” — Yahaya M. Belo
 
 In life, we all need a support system that helps us to grow, learn and become better versions of ourselves. While family and loved ones may provide unconditional love, the role of good friends cannot be underestimated in one’s journey towards personal growth and success.
 
-    When it comes to Choosing Friends, Quality counts more than quantity. While it may be good to cultivate a diverse network of friends and acquaintances, you may feel a greater sense of belonging and well-being by nurturing close, meaningful relationships that will support you through thick and thin.
-
-    — Credit to MAYO CLINIC.
+> When it comes to Choosing Friends, Quality counts more than quantity. While it may be good to cultivate a diverse network of friends and acquaintances, you may feel a greater sense of belonging and well-being by nurturing close, meaningful relationships that will support you through thick and thin.
+>
+> — Credit to MAYO CLINIC.
 
 ## **Health Wise**
 
@@ -40,6 +40,6 @@ Just as good friends can have a positive impact on your life, you too can have a
 
 So, cherish your friendships and never underestimate the impact of good friends on your life.
 
-    NOTE: When it comes to Choosing Friends, Quality counts more than quantity.
+> NOTE: When it comes to Choosing Friends, Quality counts more than quantity.
 
 Stay Motivated 💪💪💪.

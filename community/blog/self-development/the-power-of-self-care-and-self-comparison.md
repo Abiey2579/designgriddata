@@ -1,10 +1,10 @@
 # The Power of Self-care and Self-comparison
 
-    “Self-care is not selfish. You cannot serve from an empty vessel.” — Eleanor Brown
+> “Self-care is not selfish. You cannot serve from an empty vessel.” — Eleanor Brown
 
 ---
 
-    “Self-compassion is simply giving the same kindness to ourselves that we would give to others.” — Christopher Germer
+> “Self-compassion is simply giving the same kindness to ourselves that we would give to others.” — Christopher Germer
 
 As the quotes above suggested, self-care and self-compassion empowers you to take control of your physical and mental well-being, which in turn, allows you to achieve your goals and live a more fulfilling life.
 
@@ -16,4 +16,4 @@ When you practice self-care and self-compassion, you will find that you are more
 
 So, take care of yourself, be kind to yourself and don’t be afraid of mistakes, they are the stepping stones to growth and success.
 
-    “Self-care is like a bubble bath 🛀 for the soul, except you don’t have to worry about getting pruney fingers 😂😂😂.” — Me Myself 😎
+> “Self-care is like a bubble bath 🛀 for the soul, except you don’t have to worry about getting pruney fingers 😂😂😂.” — Me Myself 😎

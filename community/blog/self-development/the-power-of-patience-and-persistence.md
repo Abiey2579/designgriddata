@@ -1,6 +1,6 @@
 # The Power of Patience & Persistence
 
-    The Power of Patience & Persistence: A Guide to Achieving Success
+> The Power of Patience & Persistence: A Guide to Achieving Success
 
 Have you ever heard the saying: “Practice Makes Perfect”, well let me tell you this, without Persistence Practice won’t make you Perfect. Without Patience & Persistence there is literally not much a person can achieve in his life.
 

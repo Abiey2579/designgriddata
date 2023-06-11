@@ -2,7 +2,7 @@
 
 ### Harnessing Potential for Personal Growth and Success
 
-    Purpose is a powerful driving force that can shape our lives and motivate us to achieve great things. It gives us direction, helps us set meaningful goals, and provides the motivation we need to pursue them. Whether it’s in our personal lives or professional careers, having a clear purpose can have a profound impact on our well-being, happiness, and success.
+> Purpose is a powerful driving force that can shape our lives and motivate us to achieve great things. It gives us direction, helps us set meaningful goals, and provides the motivation we need to pursue them. Whether it’s in our personal lives or professional careers, having a clear purpose can have a profound impact on our well-being, happiness, and success.
 
 One of the key benefits of having a purpose is that it gives us a sense of meaning and fulfillment. It gives us a reason to get out of bed in the morning and tackle the challenges that lie ahead. This sense of purpose can help us weather the storms of life and overcome obstacles along the way.
 
@@ -19,6 +19,6 @@ So how can you find your purpose and harness its power? Here are a few tips:
 
 In conclusion, the power of purpose is immense. It can provide the motivation and focus we need to achieve great things, while also giving us a sense of fulfillment and happiness. By reflecting on what truly matters to us, setting meaningful goals, and surrounding ourselves with supportive people, we can harness the power of purpose and make a positive impact on our lives.
 
-    If you find your purpose, you will be amazed of how much you can accomplish in your life.
+> If you find your purpose, you will be amazed of how much you can accomplish in your life.
 
 Stay Motivated 💪💪💪💪.
