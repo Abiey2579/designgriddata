@@ -1,5 +1,7 @@
 # Intro to Git, GitHub and GitLab
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/21Gl97tkbHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 We will explore the fundamentals of version control systems and their significance in the world of web development. We'll specifically focus on three essential tools: Git, GitHub, and GitLab. Let's delve into each of these:
 
 1. **Git:** Git is a distributed version control system that allows developers to track changes, collaborate on projects, and manage code repositories efficiently. With Git, you can create a timeline of your project's development, making it easier to revert to previous versions, track modifications, and work on different features simultaneously. Git operates locally on your machine, providing speed and flexibility.
@@ -14,4 +16,5 @@ By mastering Git, GitHub, and GitLab, you'll gain proficiency in version control
 
 ### Resource Recommendation
 
-1. <a href="https://youtu.be/21Gl97tkbHU" target="_blank">Git vs Github vs GitLab — Key Differences and How to Get Started with Version Control</a>
+1. <a href="https://youtu.be/2ReR1YJrNOM" target="_blank">What is Git? Explained in 2 Minutes!</a>
+2. <a href="https://youtu.be/wpISo9TNjfU" target="_blank">Git vs. GitHub: What's the difference?</a>

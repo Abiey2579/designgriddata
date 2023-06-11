@@ -1,5 +1,7 @@
 # Links and Images
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_w6N_nplmAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 To create a link, you can use the `<a>` element with the `href` attribute specifying the URL you want to link to. Here's an example:
 
 ```html
@@ -81,6 +83,5 @@ This is what I have, what about you?
 
 ### Resource Recommendation
 
-1. <a href="https://youtu.be/_w6N_nplmAw" target="_blank">15: How to Insert Images Using HTML and CSS | Learn HTML and CSS | Full Course For Beginners</a>
-2. <a href="https://youtu.be/D6aHo1VvCc8" target="_blank">How To Use An Image As A Link In HTML</a>
-3. <a href="https://youtu.be/u2BtHQwxq7E" target="_blank">Images | HTML | Tutorial 9</a>
+1. <a href="https://youtu.be/D6aHo1VvCc8" target="_blank">How To Use An Image As A Link In HTML</a>
+2. <a href="https://youtu.be/u2BtHQwxq7E" target="_blank">Images | HTML | Tutorial 9</a>

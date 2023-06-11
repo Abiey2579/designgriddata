@@ -1,5 +1,7 @@
 # Tables
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dK27jWKtJxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 HTML tables are used to organize and display tabular data in a structured manner on a web page. Tables consist of rows and columns, forming a grid-like structure.
 
 The `<table>` element is used to define the table, while the `<tr>` element represents each row, and the `<td>` element represents each data cell within the row. Tables can have table headers `<th>` that provide labels for each column or row.
@@ -33,4 +35,3 @@ You will see something like:
 ### Resource Recommendation
 
 1. <a href="https://www.w3schools.com/html/html_tables.asp" target="_blank">w3schools | HTML Tables</a>
-2. <a href="https://youtu.be/dK27jWKtJxs">25: Table In HTML and CSS | How To Create Tables | Learn HTML and CSS | HTML Tutorial | CSS Tutorial</a>

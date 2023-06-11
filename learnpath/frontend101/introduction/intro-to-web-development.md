@@ -1,5 +1,7 @@
 # Intro to Web Development
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hJHvdBlSxug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This is the foundational lesson that provides a comprehensive introduction to the world of web development. In this lesson, we cover key concepts, technologies, and best practices that form the backbone of modern web development.
 
 Here's a breakdown of the topics covered in "Intro to Web Development":
@@ -17,3 +19,8 @@ Here's a breakdown of the topics covered in "Intro to Web Development":
 6. **Industry Trends and Career Opportunities:** The web development field is constantly evolving, and staying up to date with industry trends is essential. Mobile responsiveness, for example, has become a significant trend as people increasingly access the web on their mobile devices. Progressive web apps (PWAs) are gaining popularity, offering a native app-like experience within a web browser. Additionally, there are diverse career opportunities in web development, ranging from front-end, back-end, and full-stack development roles to specialized positions like UI/UX designers, web app security experts, and e-commerce developers.
 
 By understanding these six key points, you'll have a solid foundation in web development. You'll be equipped with the knowledge and skills necessary to create visually appealing, interactive, and functional websites. So, get ready to embark on this exciting journey and explore the endless possibilities of web development!
+
+### Resource Recommendation
+
+1. <a href="https://youtu.be/xGmIl7QbBiA" target="_blank">What Is Web Development And It's Future</a>
+2. <a href="https://youtu.be/5YDVJaItmaY" target="_blank">WEB DEVELOPMENT explained in 10 minutes</a>

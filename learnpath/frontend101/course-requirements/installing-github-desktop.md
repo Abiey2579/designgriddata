@@ -1,5 +1,7 @@
 # Installing Github Desktop
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PvUexC0-D2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 GitHub Desktop is an important tool for several reasons:
 
 1. **Streamlined Git Workflow:** GitHub Desktop provides a user-friendly interface for interacting with Git repositories. It simplifies the process of cloning, committing, branching, and pushing code changes, making it easier for developers to manage their projects.
@@ -24,6 +26,7 @@ By installing GitHub Desktop, you will have a user-friendly interface to interac
 
 ### Resource Recommendation
 
-1. <a href="https://youtu.be/iMfSokYReYQ" target="_blank">How to install Github Desktop on Windows - Github Desktop Installation Tutorial</a>
-2. <a href="https://youtu.be/C0n6O4d0ccw" target="_blank">Install GitHub Desktop on a Mac</a>
-3. <a href="https://youtu.be/8Dd7KRpKeaE" target="_blank">Git, GitHub, & GitHub Desktop for beginners</a>
+1. <a href="https://youtu.be/l7uo1d3R0Wo" target="_blank">What is GitHub Desktop?</a>
+2. <a href="https://youtu.be/iMfSokYReYQ" target="_blank">How to install Github Desktop on Windows - Github Desktop Installation Tutorial</a>
+3. <a href="https://youtu.be/C0n6O4d0ccw" target="_blank">Install GitHub Desktop on a Mac</a>
+4. <a href="https://youtu.be/8Dd7KRpKeaE" target="_blank">Git, GitHub, & GitHub Desktop for beginners</a>

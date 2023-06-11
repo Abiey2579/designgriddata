@@ -1,5 +1,7 @@
 # Classes and IDs
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wXUhTZpF_HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 In HTML, classes and IDs are attributes that allow you to apply styles or manipulate specific elements on your web page. Let's dive into a detailed explanation of classes and IDs:
 
 1. **Classes:**
@@ -28,5 +30,4 @@ Remember to choose meaningful and descriptive names for your classes and IDs to 
 
 ### Resource Recommendation
 
-1. <a href="https://youtu.be/wXUhTZpF_HQ" target="_blank">Introduction to Classes and IDs in HTML</a>
-2. <a href="https://youtu.be/iFFCKG7BcQs" target="_blank">HTML Classes And IDs | Introduction To Classes And IDs In HTML</a>
+1. <a href="https://youtu.be/iFFCKG7BcQs" target="_blank">HTML Classes And IDs | Introduction To Classes And IDs In HTML</a>

@@ -1,7 +1,5 @@
 # Course Overview:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YKzladQXngM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Welcome to our comprehensive frontend web development course! In this course, we aim to provide you with the basic knowledge and skills necessary to become a proficient frontend web developer. Our mission is to empower individuals like you to embark on a rewarding journey in the world of web development and equip you with the tools to create stunning and functional websites.
 
 At our company, we value continuous learning, creativity, and collaboration. Throughout this course, we strive to instill these core values in every aspect of your learning experience. We believe that by fostering a programmer mindset and providing you with the necessary resources and support, you can achieve remarkable results.

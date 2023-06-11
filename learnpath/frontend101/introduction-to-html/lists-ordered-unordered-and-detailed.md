@@ -1,5 +1,7 @@
 # Lists: Ordered, Unordered and Detailed
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-kXZvKxs9oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 HTML allows you to create structured lists, whether numbered, bullet-pointed, or with terms and corresponding descriptions, to organize and present information in a clear and organized manner. By leveraging these list types, you can enhance the readability and understanding of your content for users.
 
 1. Ordered List (`<ol>`):
@@ -86,8 +88,3 @@ Right-click anywhere in code and select "Open in Browser"
 You will see something like:
 
 ![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/list-ul-ol-dl-code-preview.jpg)
-
-### Resource Recommendation
-
-1. <a href="https://youtu.be/-kXZvKxs9oA" target="_blank">Learn HTML lists in 4 minutes 📋
-   </a>
