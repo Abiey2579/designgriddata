@@ -40,6 +40,6 @@ Just as good friends can have a positive impact on your life, you too can have a
 
 So, cherish your friendships and never underestimate the impact of good friends on your life.
 
-> NOTE: When it comes to Choosing Friends, Quality counts more than quantity.
+> **NOTE:** When it comes to Choosing Friends, Quality counts more than quantity.
 
 Stay Motivated 💪💪💪.

@@ -28,7 +28,7 @@ let's preview the above `table` code.
 
 You will see something like:
 
-![Code Preview](../../assets/images/tables-code-preview.jpg)
+![Code Preview](https://raw.githubusercontent.com/Abiey2579/designgriddata/master/learnpath/assets/images/tables-code-preview.jpg)
 
 ### Resource Recommendation
 
