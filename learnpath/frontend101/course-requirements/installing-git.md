@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8JJ101D3knE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 In this lesson, you will learn how to download and install Git, a widely used version control system in the software development industry. By installing Git, you will gain access to powerful features that allow you to track changes, collaborate with others, and manage your code projects effectively.
 
 1. Visit the official website of Git: <a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>
