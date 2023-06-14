@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fNcJuPIZ2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 Forms in HTML are used to collect user input, such as text, selections, checkboxes, and more. They are essential for interactive web pages and allow users to submit data to a server for processing. Let's dive into the details of creating forms in HTML.
 
 To create a form, you use the `<form>` element. Here's a basic form structure:

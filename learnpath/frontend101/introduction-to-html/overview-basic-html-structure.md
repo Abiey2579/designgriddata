@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qz0aGYrrlhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 HTML stands for Hypertext Markup Language and is the standard markup language used to create the structure and content of web pages.
 
 HTML Boilerplate refers to a standardized starting point or template that includes the basic structure and essential elements of an HTML document. The HTML boilerplate serves as a starting point for creating HTML documents and ensures that your code is well-structured and follows best practices. Here is an example of the basic HTML structure:

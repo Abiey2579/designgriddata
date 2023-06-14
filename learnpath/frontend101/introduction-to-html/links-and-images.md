@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_w6N_nplmAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 To create a link, you can use the `<a>` element with the `href` attribute specifying the URL you want to link to. Here's an example:
 
 ```html

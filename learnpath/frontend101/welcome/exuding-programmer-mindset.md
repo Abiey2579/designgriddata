@@ -1,5 +1,9 @@
 # Exuding Programmer Mindset
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wnHW6o8WMas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
 We want to prepare you for the exciting yet challenging journey ahead. As you dive deeper into the world of programming, you may encounter obstacles, face complex problems, and sometimes feel overwhelmed. But remember, these challenges are an integral part of the learning process and an opportunity for growth.
 
 Developing a programmer mindset means embracing perseverance, problem-solving, and a passion for continuous learning. It's about adopting a positive attitude, staying motivated, and never giving up, even when faced with seemingly insurmountable hurdles. As you embark on this journey, we want to remind you of a few key points:
