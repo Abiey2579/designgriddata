@@ -2,7 +2,7 @@
 
 We invite you to become part of our vibrant and supportive learning community on Discord. Our Discord server is a central hub where you can connect with instructors, engage with fellow learners, and access valuable resources to enhance your learning experience.
 
-[**Join the Community**]()
+<a href="https://discord.gg/E3f3F4yN" target="_blank"><strong>Join the Community</strong></a>
 
 By joining our Discord community, you gain several benefits:
 
@@ -16,4 +16,4 @@ By joining our Discord community, you gain several benefits:
 
 5. **Community Engagement:** Engage in discussions, share your projects, and seek feedback from both instructors and fellow learners. Our Discord community is designed to foster a sense of belonging and create an environment where you can grow not only as a programmer but also as a member of a supportive community.
 
-To join our Discord community, simply follow [**Join the Community**](). We look forward to welcoming you into our vibrant and inclusive community, where learning is an engaging and collaborative experience. Together, we can strive for excellence, overcome challenges, and celebrate the joys of programming.
+To join our Discord community, simply follow <a href="https://discord.gg/E3f3F4yN" target="_blank"><strong>Join the Community</strong></a>. We look forward to welcoming you into our vibrant and inclusive community, where learning is an engaging and collaborative experience. Together, we can strive for excellence, overcome challenges, and celebrate the joys of programming.
